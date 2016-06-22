@@ -1,0 +1,28 @@
+name: juanloayza
+favicon: null
+layout_spectrum: 0.3322420744225383
+typography_spectrum: 0.14501233235932887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.518447655485943
+  lightness: 0.37997578736394644
+  saturation: 0.08043048135004938
+  rhythmicContrast: 0.2408012815285474
+purpose: []
